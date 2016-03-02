@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+uses-permission#saisrikanth.com.kiddo.MAPS_RECEIVE
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:6:9-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#saisrikanth.com.kiddo.providers.gsf.permission.READ_GSFREVICES
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:14:5-102
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:14:22-99
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:15:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:19:22-78
+uses-feature#0x00020000
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:30:5-32:35
+	android:glEsVersion
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:31:9-41
+	android:required
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:32:9-32
+application
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:34:5-153:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.google.android.gms:play-services:6.5.87] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:36:9-45
+	android:theme
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:38:9-40
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:39:9-41:71
+	android:value
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:40:13-62
+activity#saisrikanth.com.kiddo.MainActivity
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:44:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:49:27-74
+activity#saisrikanth.com.kiddo.ProximityActivity
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:53:13-46
+intent-filter#android.intent.category.DEFAULT+saisrikanth.com.kiddo.activity.proximity
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:55:13-59:29
+action#saisrikanth.com.kiddo.activity.proximity
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:56:17-83
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:56:25-80
+category#android.intent.category.DEFAULT
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:58:27-73
+activity#saisrikanth.com.kiddo.NotificationView
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:62:13-45
+intent-filter#android.intent.category.DEFAULT
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:64:13-66:29
+activity#saisrikanth.com.kiddo.check_location
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:69:13-43
+activity#saisrikanth.com.kiddo.loc_check
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:75:9-81:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:76:13-38
+activity#saisrikanth.com.kiddo.maps
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:82:9-88:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:84:13-56
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:83:13-33
+receiver#saisrikanth.com.kiddo.incomingsms
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:98:9-109:20
+	android:priority
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:99:13-40
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:101:13-103:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:102:17-82
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:102:25-79
+activity#saisrikanth.com.kiddo.Add_boundaries
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:111:9-117:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:113:13-66
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:112:13-43
+activity#saisrikanth.com.kiddo.showchildLocation
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:118:9-121:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:120:13-70
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:119:13-46
+activity#saisrikanth.com.kiddo.changenumber
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:122:9-125:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:124:13-64
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:123:13-41
+activity#saisrikanth.com.kiddo.SOS
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:126:9-131:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:129:13-55
+	android:configChanges
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:130:13-51
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:127:13-32
+activity#saisrikanth.com.kiddo.sos
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:132:9-135:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:134:13-55
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:133:13-32
+activity#saisrikanth.com.kiddo.show_child_loc_map
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:136:9-139:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:138:13-70
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:137:13-47
+activity#saisrikanth.com.kiddo.Previous_Logs
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:140:9-143:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:142:13-66
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:141:13-42
+activity#saisrikanth.com.kiddo.show_previous_loc
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:144:9-147:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:146:13-69
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:145:13-46
+activity#saisrikanth.com.kiddo.findChild
+ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:149:9-152:20
+	android:label
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:151:13-62
+	android:name
+		ADDED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml:150:13-38
+uses-sdk
+INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.google.android.gms:play-services:6.5.87] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services:6.5.87] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services:6.5.87] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services:6.5.87] H:\Docs\New folder (2)\kiddo-2016-01-20\kiddo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:22:13-58

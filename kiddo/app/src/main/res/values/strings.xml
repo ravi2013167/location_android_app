@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kiddo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="boundaries">BOUNDARIES</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">maps</string>
+    <string name="title_activity_add_boundaries">add_boundaries</string>
+    <string name="title_activity_proximity">ProximityActivity</string>
+    <string name="title_activity_showchild_location">showchildLocation</string>
+    <string name="title_activity_changenumber">changenumber</string>
+    <string name="title_activity_sos">SOS</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_previous__logs">Previous_Logs</string>
+    <string name="title_activity_show_previous_loc">show_previous_loc</string>
+
+    <string-array name="securetype">
+        <item>SAFE</item>
+        <item>UNSAFE</item>
+    </string-array>
+
+    <string name="title_activity_whereismychild1">whereismychild1</string>
+    <string name="title_activity_find_child">findChild</string>
+
+</resources>

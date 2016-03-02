@@ -1,0 +1,103 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
+    tools:context="saisrikanth.com.kiddo.SOS">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:keepScreenOn="true" android:textColor="#33b5e5"
+        android:textStyle="bold" android:textSize="50sp" android:gravity="center"
+        android:text="@string/dummy_content" />
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:id="@+id/frame"
+        android:background="#005B9A">
+
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <Button android:id="@+id/cancel" style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:text="It&apos;s OK"
+                android:background="#ffcc2938" />
+
+            <Button android:id="@+id/showlocation" style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:text="Show Location"
+                android:background="#ff00cc3d" />
+
+        </LinearLayout>
+
+        <ImageButton
+            android:layout_width="374dp"
+            android:layout_height="323dp"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center"
+            android:src="@drawable/sos_marker"
+            android:scaleType="fitCenter"
+            android:text="Show Location"
+            android:background="#00ffffff"
+            />
+
+
+        <TableLayout
+            android:layout_width="188dp"
+            android:layout_height="79dp"
+            android:layout_gravity="left|top">
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Longitude"
+                    android:id="@+id/textView26"
+                    android:layout_column="0" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Large Text"
+                    android:id="@+id/textView14"
+                    android:layout_gravity="right"
+                    android:textColor="#ffffffff"
+                    android:layout_column="1"/>
+
+
+            </TableRow>
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Latitude"
+                    android:id="@+id/textView27"
+                    android:layout_column="0" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Large Text"
+                    android:id="@+id/textView13"
+                    android:layout_gravity="center_horizontal|top"
+                    android:textColor="#ffffffff"
+                    android:layout_column="1"/>
+            </TableRow>
+
+
+
+        </TableLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_proximity.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_proximity.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_showchild_location.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_showchild_location.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_show_previous_loc.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_show_previous_loc.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_changenumber.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_changenumber.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_maps.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_maps.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sos.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_sos.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_find_child.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_find_child.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add_boundaries.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_add_boundaries.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_previous__logs.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_previous__logs.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_whereismychild1.xml",
+        "source": "H:\\Docs\\New folder (2)\\kiddo-2016-01-20\\kiddo\\app\\src\\main\\res\\menu\\menu_whereismychild1.xml"
+    }
+]

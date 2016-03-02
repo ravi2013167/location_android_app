@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationMarkerPreferences.iml" filepath="$PROJECT_DIR$/LocationMarkerPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libproject/libproject.iml" filepath="$PROJECT_DIR$/libproject/libproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationMarkerPreferences/locationMarkerPreferences.iml" filepath="$PROJECT_DIR$/locationMarkerPreferences/locationMarkerPreferences.iml" />
+    </modules>
+  </component>
+</project>
+

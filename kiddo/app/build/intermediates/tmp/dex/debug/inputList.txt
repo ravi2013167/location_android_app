@@ -1,0 +1,7 @@
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\classes\debug
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-19aac187b603ff1534be40903337f3b1b0d54649.jar
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-60e4badb71199c5f5925e02c6f4b61e5e96d279b.jar
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\gson-2.2.3-3d7bbdb2f23df57ab253c70c26dafbf942cdbe68.jar
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\classes-2f99aa8eae2f169e3b3ae8bcd9663e60166ad561.jar
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\classes-cfd850ad51ff85d60eb7fcaa7c63a4cf646b232e.jar
+C:\Users\Sai Srikanth\AndroidStudioProjects\kiddo\app\build\intermediates\pre-dexed\debug\classes-1614283ec67e66760655e9381612e2999b353411.jar
